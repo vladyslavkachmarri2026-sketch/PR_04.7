@@ -1,3 +1,5 @@
+// Качмар Владислав.
+// 12 варіант.
 #include <iostream>
 #include <iomanip>
 #include <cmath>
